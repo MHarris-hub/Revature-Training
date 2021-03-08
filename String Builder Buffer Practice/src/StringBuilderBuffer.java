@@ -14,7 +14,7 @@ public class StringBuilderBuffer {
 		System.out.println(lastCharUpper(input));
 		System.out.println();
 
-		System.out.println("Input after all call to upperEvenOdd:");
+		System.out.println("Input after call to upperEvenOdd:");
 		System.out.println(upperEvenOdd(input));
 		System.out.println();
 
